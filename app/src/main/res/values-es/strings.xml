@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">UrBank</string>
+    <string name="urBank">"tu Banco "</string>
+    <string name="view_transactions_btn">"Ver Transacciones "</string>
+    <string name="img_bank">"Icono de banco "</string>
+    <string name="send_money_btn">"Enviar Dinero "</string>
+    <string name="view_balance_btn">"Ver Saldo "</string>
+    <string name="recipient">Destinatario</string>
+    <string name="name_recipient">Nombre</string>
+    <string name="next_btn">Seguinte</string>
+    <string name="your_balance">"Tu balance "</string>
+    <string name="send">Enviar</string>
+    <string name="amount">Cantidad</string>
+    <string name="password">contraseña</string>
+    <string name="login">"iniciar sesión "</string>
+    <string name="transaction_title">"Transacciones "</string>
+    <string name="food">Comida</string>
+    <string name="_300">€300</string>
+    <string name="data_transaction">Datos</string>
+    <string name="_200">€200</string>
+    <string name="rent">Alquilar</string>
+    <string name="candles">Velas</string>
+    <string name="_3600">€3600</string>
+    <string name="utility">Ultilidad</string>
+    <string name="_150">€150</string>
+    <string name="recipientMessage">Ingrese un destinatario</string>
+    <string name="sendingTo">Enviar dinero a %1$s</string>
+    <string name="toastAmount">"Ingrese la cantidad "</string>
+    <string name="confirmMessage">" Has enviado %1$.2f a %2$s"</string>
+    <string name="balanceShow">€1</string>
+</resources>

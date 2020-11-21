@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">UrBank</string>
+    <string name="urBank">UrBank</string>
+    <string name="view_transactions_btn">View Transactions</string>
+    <string name="img_bank">Bank Icon</string>
+    <string name="send_money_btn">Send Money</string>
+    <string name="view_balance_btn">View Balance</string>
+    <string name="recipient">Recipient</string>
+    <string name="name_recipient">Name</string>
+    <string name="next_btn">Next</string>
+    <string name="your_balance">Your Balance!</string>
+    <string name="balanceicon" translatable="false">balanceIcon</string>
+    <string name="send">send</string>
+    <string name="amount">Amount</string>
+    <string name="amounticon" translatable="false">amountIcon</string>
+    <string name="loginimg" translatable="false">loginImg</string>
+    <string name="password">password</string>
+    <string name="login">login</string>
+    <string name="transaction_title">Transaction</string>
+    <string name="food">Food</string>
+    <string name="_300">$300</string>
+    <string name="data_transaction">Data</string>
+    <string name="_200">$200</string>
+    <string name="rent">Rent</string>
+    <string name="candles">Candles</string>
+    <string name="_3600">$3600</string>
+    <string name="utility">Utility</string>
+    <string name="_150">$150</string>
+    <string name="recipientMessage">Enter a Recipient</string>
+    <string name="sendingTo">Sending Money to %1$s</string>
+    <string name="toastAmount">Enter Amount</string>
+    <string name="confirmMessage">You have sent %1$.2f to %2$s</string>
+    <string name="confirmview" translatable="false">confirmView</string>
+    <string name="balanceShow">$1</string>
+</resources>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/transactionsFragment"
+        android:icon="@drawable/transactionicon"
+        android:title="@string/transaction_title" />
+    <item
+        android:id="@+id/recipientFragment"
+        android:icon="@drawable/sendmondey"
+        android:title="@string/send_money_btn" />
+    <item
+        android:id="@+id/balanceFragment"
+        android:icon="@drawable/balance"
+        android:title="@string/your_balance" />
+</menu>
