@@ -5,7 +5,7 @@ Aplicativo de conta bancária semelhante ao apresentado na documentação do And
 
 ![](https://developer.android.com/images/topic/libraries/architecture/navigation-graph_2x-callouts.png)
 
-- A aplicação deve contem uma Activity de Login, que é mostrada sempre que o app é aberto. Mas o usuário só pode usar o restante da aplicação se obtiver sucesso no login. Em caso de erro, mostre um Toast.
+- A aplicação contem uma Activity de Login, que é mostrada sempre que o app é aberto. Mas o usuário só pode usar o restante da aplicação se obtiver sucesso no login. Em caso de erro, mostre um Toast.
 - Depois de logado, o botão de voltar do Android jamais retorna para a tela de Login e sim sair do app.
 - Além da navegação que já ocorre entre os Fragments,há BottomNavigationView com botões para ver as transações, enviar dinheiro e ver o saldo.
 - Todas as strings que o usuário vê estão internacionalizáveis (inglês padrão + 2 idiomas).
